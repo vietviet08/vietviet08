@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=TienNHM&color=blue)
 <!--
 **vietviet08/vietviet08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
