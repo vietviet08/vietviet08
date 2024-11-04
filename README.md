@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Viet</h1>
-<h3 align="center">Is a student with passion for technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vietviet08&label=Profile%20views&color=0e75b6&style=flat" alt="vietviet08" /> </p>
 
