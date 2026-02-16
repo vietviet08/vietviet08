@@ -1,26 +1,26 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f172a,45:1e3a8a,100:0ea5e9&text=Nguyen%20Quoc%20Viet&fontAlignY=38&fontSize=42&fontColor=ffffff&desc=Sofware%20Engineer&descAlignY=58&descSize=16&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f172a,45:1e3a8a,100:0ea5e9&text=Nguyen%20Quoc%20Viet&fontAlignY=38&fontSize=42&fontColor=ffffff&desc=Software%20Engineer&descAlignY=58&descSize=16&animation=fadeIn" alt="header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=950&lines=Backend+engineer+expanding+into+DevSecOps;CI%2FCD+automation+%7C+cloud+operations+%7C+secure+delivery;Focused+on+reliability%2C+observability%2C+and+security" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=0EA5E9&center=true&vCenter=true&width=980&lines=Software+engineer+with+a+strong+backend+foundation;Building+end-to-end+products+from+API+to+UI;Hands-on+with+DevOps+and+infrastructure+for+reliable+delivery" alt="typing" />
 </p>
 
 <p align="center">
   <a href="mailto:viezquoc.dev@gmail.com"><img src="https://img.shields.io/badge/Email-viezquoc.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
   <a href="https://linkedin.com/in/viequoc08"><img src="https://img.shields.io/badge/LinkedIn-viequoc08-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-  <a href="https://github.com/vietviet08"><img src="https://img.shields.io/badge/GitHub-vietviet08-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+  <a href="https://www.facebook.com/viequoc24.08/"><img src="https://img.shields.io/badge/Facebook-viequoc24.08-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/></a>
   <img src="https://komarev.com/ghpvc/?username=vietviet08&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="views" />
 </p>
 
 ## About
 
-- Backend engineer expanding into DevSecOps with hands-on CI/CD automation, cloud infrastructure, and secure production delivery.
-- Built and maintained delivery pipelines with Jenkins, GitHub Actions, and GitLab CI.
-- Worked on Kubernetes, Rancher-based rollout, AWS ECS Fargate deployment, and Terraform-based infrastructure provisioning.
-- Interested in platform reliability, observability, and security-first engineering.
+- Software Engineer with a backend-first mindset, focused on scalable APIs, clean architecture, and production-ready systems.
+- Experienced in building end-to-end products, with strong ownership on backend design and implementation.
+- Practical experience with DevOps and infrastructure workflows for CI/CD, deployment, monitoring, and reliability.
+- Strong collaboration and problem-solving approach in Agile teams.
 
-## Tech Stack
+## Technical Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/>
@@ -28,8 +28,8 @@
   <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab-ci"/>
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="sonarqube"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes%20-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
-  <img src="https://img.shields.io/badge/Terraform%20-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="terraform"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="terraform"/>
   <img src="https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white" alt="rancher"/>
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx"/>
   <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" alt="minio"/>
@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/Keycloak-1F6FEB?style=for-the-badge&logo=keycloak&logoColor=white" alt="keycloak"/>
   <img src="https://img.shields.io/badge/AWS%20IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="iam"/>
   <img src="https://img.shields.io/badge/Secrets%20Manager-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="secrets-manager"/>
-  <img src="https://img.shields.io/badge/WAF%20-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="waf"/>
+  <img src="https://img.shields.io/badge/WAF-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="waf"/>
   <img src="https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring-boot"/>
   <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring-cloud"/>
@@ -61,7 +61,7 @@
   <img src="https://img.shields.io/badge/Java-E11F21?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="javascript"/>
-  <img src="https://img.shields.io/badge/Bash%20-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="bash"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="bash"/>
   <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624" alt="linux"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
   <img src="https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=000" alt="swagger-openapi"/>
