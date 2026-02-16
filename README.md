@@ -1,14 +1,82 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vietviet08&label=Profile%20views&color=0e75b6&style=flat" alt="vietviet08" /> </p>
-
-- 🔭 I’m a **Full Stack Developer** passionate about building robust and scalable applications.
-- 🌱 Specialized in **Java, Python, Spring Boot, VueJS, NextJS, Microservices, Observability**.
-- ⚡ Focused on delivering high-quality code and seamless user experiences.
-
-- 📫 How to reach me **viezquoc.dev@gmail.com**
-
-<p align="left">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f172a,45:1e3a8a,100:0ea5e9&text=Nguyen%20Quoc%20Viet&fontAlignY=38&fontSize=42&fontColor=ffffff&desc=Sofware%20Engineer&descAlignY=58&descSize=16&animation=fadeIn" alt="header" />
 </p>
 
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a> <a href="https://supabase.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/> </a> <a href="https://nuxtjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://bitbucket.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="40" height="40"/> </a> <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/> </a> <a href="https://www.sonarqube.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" alt="sonarqube" width="40" height="40"/> </a> <a href="https://expo.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="expo" width="40" height="40"/> </a> <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/> </a> <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>  </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=950&lines=Backend+engineer+expanding+into+DevSecOps;CI%2FCD+automation+%7C+cloud+operations+%7C+secure+delivery;Focused+on+reliability%2C+observability%2C+and+security" alt="typing" />
+</p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vietviet08&theme=dark&hide_border=true&card_width=510" alt="GitHub Streak" /></a>
+<p align="center">
+  <a href="mailto:viezquoc.dev@gmail.com"><img src="https://img.shields.io/badge/Email-viezquoc.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+  <a href="https://linkedin.com/in/viequoc08"><img src="https://img.shields.io/badge/LinkedIn-viequoc08-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="https://github.com/vietviet08"><img src="https://img.shields.io/badge/GitHub-vietviet08-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+  <img src="https://komarev.com/ghpvc/?username=vietviet08&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="views" />
+</p>
+
+## About
+
+- Backend engineer expanding into DevSecOps with hands-on CI/CD automation, cloud infrastructure, and secure production delivery.
+- Built and maintained delivery pipelines with Jenkins, GitHub Actions, and GitLab CI.
+- Worked on Kubernetes, Rancher-based rollout, AWS ECS Fargate deployment, and Terraform-based infrastructure provisioning.
+- Interested in platform reliability, observability, and security-first engineering.
+
+## Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="github-actions"/>
+  <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab-ci"/>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="sonarqube"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes%20(Basic)-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
+  <img src="https://img.shields.io/badge/Terraform%20(Basic)-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="terraform"/>
+  <img src="https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white" alt="rancher"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx"/>
+  <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" alt="minio"/>
+  <img src="https://img.shields.io/badge/AWS%20EC2-EC7211?style=for-the-badge&logo=amazonec2&logoColor=white" alt="ec2"/>
+  <img src="https://img.shields.io/badge/AWS%20ECS%20Fargate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="ecs-fargate"/>
+  <img src="https://img.shields.io/badge/AWS%20ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="ecr"/>
+  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="s3"/>
+  <img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="cloudfront"/>
+  <img src="https://img.shields.io/badge/Route53-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="route53"/>
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" alt="cloudwatch"/>
+  <img src="https://img.shields.io/badge/SNS-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" alt="sns"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="prometheus"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="grafana"/>
+  <img src="https://img.shields.io/badge/Loki-1F2937?style=for-the-badge&logo=grafana&logoColor=white" alt="loki"/>
+  <img src="https://img.shields.io/badge/OAuth2%2FOIDC-1E40AF?style=for-the-badge" alt="oauth2-oidc"/>
+  <img src="https://img.shields.io/badge/JWT-0F172A?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="jwt"/>
+  <img src="https://img.shields.io/badge/Keycloak-1F6FEB?style=for-the-badge&logo=keycloak&logoColor=white" alt="keycloak"/>
+  <img src="https://img.shields.io/badge/AWS%20IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="iam"/>
+  <img src="https://img.shields.io/badge/Secrets%20Manager-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="secrets-manager"/>
+  <img src="https://img.shields.io/badge/WAF%20(Basic)-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="waf"/>
+  <img src="https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring-boot"/>
+  <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring-cloud"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="kafka"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="redis"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  <img src="https://img.shields.io/badge/Java-E11F21?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="javascript"/>
+  <img src="https://img.shields.io/badge/Bash%20(Basic)-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="bash"/>
+  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624" alt="linux"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+  <img src="https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=000" alt="swagger-openapi"/>
+</p>
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vietviet08&theme=tokyonight" alt="profile-summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vietviet08&theme=tokyo-night&hide_border=true" alt="activity-graph" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vietviet08&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
